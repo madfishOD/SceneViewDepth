@@ -5,7 +5,7 @@ Recently I needed to render depth directly inside of Unity SceneView for debug p
 All magic is done by  "Assets\Shaders\GS_DepthDebug.shader"
 And EditorTool script "Assets\Editor\SceneViewDepth.cs"
 
-## Usage Preview
+## Preview
 ![Tank](TankStatic.gif)
 ![TankOrbit](TankOrbit.gif)
 ### Note:
