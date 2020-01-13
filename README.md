@@ -7,7 +7,7 @@ And EditorTool script "Assets\Editor\SceneViewDepth.cs"
 
 ## Usage Preview
 ![](TankStatic.gif)
-![](TankOrbit.gif =1198x828)
+![](TankOrbit.gif){ width: 200px; }
 # Note
 If you see only black and white values while tool is active, try to adjust settings of scene camera far clip
 
