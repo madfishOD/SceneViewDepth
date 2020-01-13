@@ -1,4 +1,6 @@
 # SceneViewDepth
-Recently I needed to render depth directly inside of Unity SceneView for debug purpose. Initialy it was part of custom tool for editor. But it can be easyly converted to be used with other kind of custom editors  
+Recently I needed to render depth directly inside of Unity SceneView for debug purpose. Initialy it was part of custom tool for editor. But it can be easyly converted to be used with other kind of custom editors or to Blit result to some kind of Texture, etc.
 ## Usage Preview
 ![](TankStatic.gif)
+# Geometry Shader
+All magic is done by "Assets\Shaders\GS_DepthDebug.shader"
