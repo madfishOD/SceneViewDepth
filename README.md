@@ -6,7 +6,10 @@ Recently I needed to render depth directly inside of Unity SceneView for debug p
 ![TankOrbit](TankOrbit.gif)
 ### Note:If you see only black and white values while tool is active, try to adjust settings of scene camera far clip
 ### Geometry Shader and Tool script
-All magic is done by  "Assets\Shaders\GS_DepthDebug.shader"<br/>
+All magic is done by  "Assets\Shaders\GS_DepthDebug.shader"
+<br/>
+<br/>
+<br/>
 And EditorTool script "Assets\Editor\SceneViewDepth.cs"
 
 
